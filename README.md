@@ -1,7 +1,7 @@
 ## Primeira versão do site da Perfumaria Le Parfum
 
 ### Site realizado para o Curso Técnico de Informática (curso atualmente renomeado como Desenvolvimento de Software).
-[LINK DO SITE](https://esteves-esta.github.io/)
+[LINK DO SITE](https://esteves-esta.github.io/leparfum)
 
 **Linguagens usadas neste projeto: HTML | CSS | JAVASCRIPT | JQUERY**
 
